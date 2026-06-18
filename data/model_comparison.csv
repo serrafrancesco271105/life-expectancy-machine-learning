@@ -1,0 +1,8 @@
+Model,Features,Observations,R_squared,MAE_years
+Baseline Linear Regression,GDP per capita + Health expenditure (% GDP),191,0.44656357236844146,4.593884130300143
+Log GDP Linear Regression,Log GDP per capita + Health expenditure (% GDP),191,0.788937897635052,2.8003385818131528
+Baseline Random Forest,GDP per capita + Health expenditure (% GDP),191,0.7522812893138838,2.7876677049814274
+Random Forest + Education,GDP per capita + Health expenditure (% GDP) + Education,107,0.6305248785636206,2.623485731707325
+Random Forest + Obesity,GDP per capita + Health expenditure (% GDP) + Obesity,177,0.7507111127931122,2.7291598102980927
+Lifestyle Random Forest,GDP per capita + Health expenditure (% GDP) + Obesity + Smoking,155,0.8021699829544777,2.7420632022029876
+Per-Capita Health Expenditure Random Forest,GDP per capita + Health expenditure per capita + Obesity + Smoking,155,0.7868208299849164,2.7781426435877195
