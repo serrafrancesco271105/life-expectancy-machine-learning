@@ -1,0 +1,27 @@
+Model_ID,Model_name,Feature,Importance
+M3,Baseline Random Forest,gdp_per_capita,0.8322132642984548
+M3,Baseline Random Forest,health_expenditure,0.1677867357015452
+M4,Social Extension Random Forest,gdp_per_capita,0.6617669536531408
+M4,Social Extension Random Forest,education,0.29469336063208595
+M4,Social Extension Random Forest,health_expenditure,0.043539685714773305
+M5,Obesity Extension Random Forest,gdp_per_capita,0.8073289454647481
+M5,Obesity Extension Random Forest,health_expenditure,0.09662144648754167
+M5,Obesity Extension Random Forest,obesity,0.09604960804771027
+M6,Lifestyle Extension Random Forest,gdp_per_capita,0.7841439167735508
+M6,Lifestyle Extension Random Forest,smoking,0.09390314336356632
+M6,Lifestyle Extension Random Forest,health_expenditure,0.07624140341536022
+M6,Lifestyle Extension Random Forest,obesity,0.04571153644752284
+M7,Absolute Healthcare Spending Random Forest,gdp_per_capita,0.6463218225011614
+M7,Absolute Healthcare Spending Random Forest,health_expenditure_per_capita,0.20743512225147961
+M7,Absolute Healthcare Spending Random Forest,smoking,0.09942806621030932
+M7,Absolute Healthcare Spending Random Forest,obesity,0.046814989037049747
+M8,Lifestyle & Environment Random Forest,gdp_per_capita,0.7769735826263338
+M8,Lifestyle & Environment Random Forest,smoking,0.075201487261855
+M8,Lifestyle & Environment Random Forest,health_expenditure,0.05996958274530867
+M8,Lifestyle & Environment Random Forest,air_pollution,0.050395214679605435
+M8,Lifestyle & Environment Random Forest,obesity,0.037460132686896984
+M9,Absolute Healthcare & Environment Random Forest,gdp_per_capita,0.6372328545717816
+M9,Absolute Healthcare & Environment Random Forest,health_expenditure_per_capita,0.19533136917986077
+M9,Absolute Healthcare & Environment Random Forest,smoking,0.07783990218708264
+M9,Absolute Healthcare & Environment Random Forest,air_pollution,0.052812946081638314
+M9,Absolute Healthcare & Environment Random Forest,obesity,0.036782927979636754

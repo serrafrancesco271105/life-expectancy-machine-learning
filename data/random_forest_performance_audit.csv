@@ -1,0 +1,8 @@
+Model_ID,Model_name,Observations,R_squared,MAE_years,Features
+M3,Baseline Random Forest,191,0.757,2.75,"gdp_per_capita, health_expenditure"
+M4,Social Extension Random Forest,107,0.63,2.58,"gdp_per_capita, health_expenditure, education"
+M5,Obesity Extension Random Forest,177,0.732,2.86,"gdp_per_capita, health_expenditure, obesity"
+M6,Lifestyle Extension Random Forest,155,0.802,2.77,"gdp_per_capita, health_expenditure, obesity, smoking"
+M7,Absolute Healthcare Spending Random Forest,155,0.787,2.79,"gdp_per_capita, health_expenditure_per_capita, obesity, smoking"
+M8,Lifestyle & Environment Random Forest,155,0.812,2.7,"gdp_per_capita, health_expenditure, obesity, smoking, air_pollution"
+M9,Absolute Healthcare & Environment Random Forest,155,0.822,2.59,"gdp_per_capita, health_expenditure_per_capita, obesity, smoking, air_pollution"
