@@ -196,6 +196,7 @@ The final model suggests that a healthy society is not simply a richer society. 
 
 ## Main Files
 
+- [Final Report](reports/final_report.md)
 - [Final Analysis Notebook](notebooks/02_final_analysis.ipynb)
 - [Working Notebook](notebooks/01_working_notebook.ipynb)
 - [Model Audit Table](data/model_audit.csv)

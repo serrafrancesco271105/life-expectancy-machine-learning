@@ -6,6 +6,25 @@
 **Project Type:** Data Science / Machine Learning Project  
 **Tools:** Python, pandas, scikit-learn, matplotlib, World Bank Data  
 
+## Table of Contents
+
+1. [Executive Summary](#executive-summary)
+2. [Introduction](#1-introduction)
+3. [Research Question and Project Objective](#2-research-question-and-project-objective)
+4. [Project Documentation and Reproducibility](#3-project-documentation-and-reproducibility)
+5. [Data Sources and Variable Framework](#4-data-sources-and-variable-framework)
+6. [Data Cleaning and Preparation](#5-data-cleaning-and-preparation)
+7. [Exploratory Data Analysis](#6-exploratory-data-analysis)
+8. [Modeling Strategy](#7-modeling-strategy)
+9. [Model Results](#8-model-results)
+10. [Feature Importance](#9-feature-importance)
+11. [Interpretation by Macro-category](#10-interpretation-by-macro-category)
+12. [Model Progression Interpretation](#11-model-progression-interpretation)
+13. [Why M9 Is the Final Model](#12-why-m9-is-the-final-model)
+14. [Limitations](#13-limitations)
+15. [Final Overall Conclusion](#14-final-overall-conclusion)
+
+---
 ---
 
 ## Executive Summary
